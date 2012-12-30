@@ -1,0 +1,11 @@
+id,type,unit_id,title,release_date,now_available
+1,A,Pre,Pre-course assessment,,TRUE
+2,U,1,Python Basic,"available Jan 15,2013",TRUE
+3,U,2,Python Advanced,"available Jan 22,2013",FALSE
+4,U,3,Python Testing,"available Feb 1,2013",FALSE
+5,A,Mid,Mid-course assessment,"at Feb 5,2013",FALSE
+6,U,4,Data strcture,"available Feb 15,2013",FALSE
+7,U,5,Algorithm,"available Feb 30,2013",FALSE
+8,U,6,Code interview,"available March 15,2013",FALSE
+9,A,Fin,Post-course assessment,"at April 4,2013",FALSE
+11,O,http://www.youtube.com/watch?v=gPm67G4rIjQ,Overview of Python,,FALSE

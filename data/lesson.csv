@@ -1,0 +1,8 @@
+unit_id,unit_title,lesson_id,lesson_title,lesson_activity,lesson_activity_name,lesson_notes,lesson_slides,lesson_video_id,lesson_objectives
+1,Python Basic,1,Overview,no,Lesson 1.1 Activity,,https://docs.google.com/file/d/0B3YNr_NmMv7UVjQ3UjQtTnhRRU0/preview,gPm67G4rIjQ,<ui><li>overview of python programming</li></ui>
+1,Python Basic,2,Install Python and IDE,no,Lesson 1.2 Activity,,https://docs.google.com/file/d/0B3YNr_NmMv7Uc1U2Uy0zbXFQd2s/preview,,<ui><li>overview of python programming</li></ui>
+1,Python Basic,3,buit-in type and function,no,Lesson 1.3 Activity,,,dYBkEa4pq0k,
+1,Python Basic,4,built-in type ,no,Lesson 1.4 Activity,,https://docs.google.com/file/d/0B3YNr_NmMv7UZV9xN2lFUWlGdzA/preview,,
+1,Python Basic,5,built-in function,no,Lesson 1.5 Activity,,https://docs.google.com/file/d/0B3YNr_NmMv7USXo3SWQ3SEdxVTA/preview,,
+1,Python Basic,6,code debug,no,Lesson 1.6 Activity,,https://docs.google.com/file/d/0B3YNr_NmMv7UY2pyYU9oRjNxeEk/preview,b-p15n43iLI,"<ui><li>learn the basic concept of debug</li>
+<li>Use GUI and command to debug python code</li></ui>"
